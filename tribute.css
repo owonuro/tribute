@@ -1,0 +1,59 @@
+html
+{
+	font-family: arial;
+	padding:0;
+	border:0;
+}
+
+body
+{
+	font-family: arial;
+	padding:1vw;
+	border:0;
+	font-size:2.5vw;
+	background-color:white;
+	margin:1px 1px 1px 1px;}
+	
+	
+	#main{
+	background-color:rgba(240, 227, 202, 0.5);
+	padding:1vw;
+	border:0;
+	margin:2px 2px 2px 2px;
+		
+	}
+
+header{
+color: #a35709;
+margin:0px auto 0px auto;
+font-size:3vw;
+text-align:center;
+}
+
+figure{
+	background-color:white;
+	color:;
+	padding:2vw 2vw 0.6vw 2vw;
+}
+figcaption{
+margin:1.6vw;
+}
+
+img{
+max-width:100%;
+height:auto;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+
+ul{
+margin:3vw;
+}
+
+li{
+margin-bottom: 1vw;
+}
+
+span{
+	font-weight:bolder; }
